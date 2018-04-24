@@ -1,2 +1,3 @@
 # hello-world
-Rogozha Alena's repository
+
+Hi! My name is Alena
